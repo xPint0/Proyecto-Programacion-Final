@@ -4,7 +4,7 @@
 -This project has been programmed in Java communicated with a local database (NetBeans IDE) following the MVC design pattern-
 
 This project consists in a representation of a game formed by 4 mini-games inspired by the International Museum Day.
-Each game will give a certain amount of points to the player depending on th enumber of correct answers the player gave.
+Each game will give a certain amount of points to the player depending on the number of correct answers the player gave.
 It also counts the time the player spends playing it.
 
 Ther first game consists in guessing the author of the artwork displayed.
