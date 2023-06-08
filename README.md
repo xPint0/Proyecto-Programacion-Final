@@ -13,7 +13,7 @@ The third is about guessing if the author of the artwork displayed is
   Gregorio fernández ( A famous author from Valladolid, Spain).
 The fourth and last is about placing the different works of art in the correct country where it is exposed at the moment
 
-We have added a rankinng view to see the different players who played before and their respective points and time
+We have added a ranking view to see the different players who played before and their respective points and time
 
 ~Authors: Lucía García and Daniel Pinto
 
