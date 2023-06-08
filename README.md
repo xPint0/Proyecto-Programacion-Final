@@ -17,6 +17,8 @@ We have added a ranking view to see the different players who played before and 
 
 ~Authors: Lucía García and Daniel Pinto
 
+--------------------------------------------------
+
 [ Español ]
 
 -Este proyecto ha sido programado en Java comunicado con una BD local (NetBeans IDE) siguiendo el patrón de diseño MVC-
